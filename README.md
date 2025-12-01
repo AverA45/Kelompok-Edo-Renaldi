@@ -1,6 +1,6 @@
 TUGAS PRAKTIKUM SO SESI 1
 
-Tugas dikerjakan secara berkelompok 2 anggota, boleh 3 anggota (maks) kalau satu orang tidak ada timnya.
+Tugas dikerjakan secara berkelompok 2 anggota, boleh 3 anggota (maks) kalau satu orang tidak ada timnya. \n
 Anggota 1 (Edo):
 	1. Buat repo baru, nama kan sesuai nama kelompok
 	2. Tambahkan kolaborator repo untuk teman tim
